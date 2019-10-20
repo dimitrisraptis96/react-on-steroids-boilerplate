@@ -16,9 +16,9 @@ Fork this repo and start hustling
 
 ## Roadmap
 
-[ ] Add Redux support
-[ ] API architecture
-[ ] More robust theming structure
+- [ ] Add Redux support
+- [ ] API architecture
+- [ ] More robust theming structure
 
 ## License
 

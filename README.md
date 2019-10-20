@@ -8,11 +8,11 @@ Fork this repo and start hustling
 
 ## Support
 
-💅 Styled-Components
-⚫️ Rebass
-🚦 React router
-👨‍🎨 Theming
-🌕 Dark/Light mode
+- 💅 Styled-Components
+- ⚫️ Rebass
+- 🚦 React router
+- 👨‍🎨 Theming
+- 🌕 Dark/Light mode
 
 ## Roadmap
 
